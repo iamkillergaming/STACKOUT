@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: abe81573da0233b7baa95d027e974274
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5547516540975448863
+    second: get_congratulations^q_0
+  - first:
+      213: -8391500726522466571
+    second: get_congratulations^q_1
+  - first:
+      213: 3104359686600814126
+    second: get_congratulations^q_2
+  - first:
+      213: 8567657788545223883
+    second: get_congratulations^q_3
+  - first:
+      213: -1633361853795525163
+    second: get_congratulations^q_4
+  - first:
+      213: -467544540903644629
+    second: get_congratulations^q_5
+  - first:
+      213: 6037128322470710898
+    second: get_congratulations^q_6
+  - first:
+      213: -4269089608980132346
+    second: get_congratulations^q_7
+  - first:
+      213: -610566924374312458
+    second: get_congratulations^q_8
+  - first:
+      213: -1400526433317992360
+    second: get_congratulations^q_9
+  - first:
+      213: 5223223816103783964
+    second: get_congratulations^q_10
+  - first:
+      213: -7596745018439810285
+    second: get_congratulations^q_11
+  - first:
+      213: 8316802585459689026
+    second: get_congratulations^q_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: get_congratulations^q_0
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 133
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13027ae6ecbcfc40800000000000000
+      internalID: 5547516540975448863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_congratulations^q_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 4
+        width: 106
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe223f9c866b8b80800000000000000
+      internalID: -8391500726522466571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_congratulations^q_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 4
+        width: 106
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e62e6ffa6e41b20800000000000000
+      internalID: 3104359686600814126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_congratulations^q_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 4
+        width: 106
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccc8538d5f66e670800000000000000
+      internalID: 8567657788545223883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_congratulations^q_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 4
+        width: 106
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd18d24c022559e0800000000000000
+      internalID: -1633361853795525163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_congratulations^q_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 4
+        width: 106
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22e3ca97b2f289f0800000000000000
+      internalID: -467544540903644629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_congratulations^q_6
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 4
+        width: 145
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e0154293038c350800000000000000
+      internalID: 6037128322470710898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_congratulations^q_7
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 4
+        width: 106
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e8d668e9521c4c0800000000000000
+      internalID: -4269089608980132346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_congratulations^q_8
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 4
+        width: 106
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9f0110e94d687f0800000000000000
+      internalID: -610566924374312458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_congratulations^q_9
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 4
+        width: 106
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858498311a4509ce0800000000000000
+      internalID: -1400526433317992360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_congratulations^q_10
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 4
+        width: 106
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ee93d036e9c7840800000000000000
+      internalID: 5223223816103783964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_congratulations^q_11
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 4
+        width: 106
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3134daea7a0f29690800000000000000
+      internalID: -7596745018439810285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_congratulations^q_12
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 4
+        width: 34
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246006d13e73b6370800000000000000
+      internalID: 8316802585459689026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      get_congratulations^q_0: 5547516540975448863
+      get_congratulations^q_1: -8391500726522466571
+      get_congratulations^q_10: 5223223816103783964
+      get_congratulations^q_11: -7596745018439810285
+      get_congratulations^q_12: 8316802585459689026
+      get_congratulations^q_2: 3104359686600814126
+      get_congratulations^q_3: 8567657788545223883
+      get_congratulations^q_4: -1633361853795525163
+      get_congratulations^q_5: -467544540903644629
+      get_congratulations^q_6: 6037128322470710898
+      get_congratulations^q_7: -4269089608980132346
+      get_congratulations^q_8: -610566924374312458
+      get_congratulations^q_9: -1400526433317992360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

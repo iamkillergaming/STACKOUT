@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 21cdaa2d01f34f7bab681c8046805aea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2335488961987870575
+    second: get_tet1_logo^q_0
+  - first:
+      213: 8654921776414535468
+    second: get_tet1_logo^q_1
+  - first:
+      213: 697399191386684953
+    second: get_tet1_logo^q_2
+  - first:
+      213: -2910042350515938818
+    second: get_tet1_logo^q_3
+  - first:
+      213: 5511410221532425309
+    second: get_tet1_logo^q_4
+  - first:
+      213: -8436988436004408194
+    second: get_tet1_logo^q_5
+  - first:
+      213: -6328429214959331043
+    second: get_tet1_logo^q_6
+  - first:
+      213: 1474189196047564655
+    second: get_tet1_logo^q_7
+  - first:
+      213: -2974919405028904618
+    second: get_tet1_logo^q_8
+  - first:
+      213: 4815564362873791334
+    second: get_tet1_logo^q_9
+  - first:
+      213: -7004224934684015592
+    second: get_tet1_logo^q_10
+  - first:
+      213: 4713107522534475004
+    second: get_tet1_logo^q_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: get_tet1_logo^q_0
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 52
+        width: 119
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ff12446d2596020800000000000000
+      internalID: 2335488961987870575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_tet1_logo^q_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 52
+        width: 211
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f2bf9ff757c1870800000000000000
+      internalID: 8654921776414535468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_tet1_logo^q_2
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 53
+        width: 119
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e7f3d9ed8ada900800000000000000
+      internalID: 697399191386684953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_tet1_logo^q_3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 52
+        width: 43
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9972876e37d97d0800000000000000
+      internalID: -2910042350515938818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_tet1_logo^q_4
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 53
+        width: 106
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ca5e155667c7c40800000000000000
+      internalID: 5511410221532425309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_tet1_logo^q_5
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 52
+        width: 145
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74f0e1f7bbc9ea80800000000000000
+      internalID: -8436988436004408194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_tet1_logo^q_6
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 52
+        width: 135
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1915209827ec28a0800000000000000
+      internalID: -6328429214959331043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_tet1_logo^q_7
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 52
+        width: 132
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f3222634f557410800000000000000
+      internalID: 1474189196047564655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_tet1_logo^q_8
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 52
+        width: 43
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651f5db1096f6b6d0800000000000000
+      internalID: -2974919405028904618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_tet1_logo^q_9
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 52
+        width: 145
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6636f1a264254d240800000000000000
+      internalID: 4815564362873791334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_tet1_logo^q_10
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 53
+        width: 118
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814c939288efbce90800000000000000
+      internalID: -7004224934684015592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: get_tet1_logo^q_11
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 53
+        width: 106
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf483e41252586140800000000000000
+      internalID: 4713107522534475004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      get_tet1_logo^q_0: 2335488961987870575
+      get_tet1_logo^q_1: 8654921776414535468
+      get_tet1_logo^q_10: -7004224934684015592
+      get_tet1_logo^q_11: 4713107522534475004
+      get_tet1_logo^q_2: 697399191386684953
+      get_tet1_logo^q_3: -2910042350515938818
+      get_tet1_logo^q_4: 5511410221532425309
+      get_tet1_logo^q_5: -8436988436004408194
+      get_tet1_logo^q_6: -6328429214959331043
+      get_tet1_logo^q_7: 1474189196047564655
+      get_tet1_logo^q_8: -2974919405028904618
+      get_tet1_logo^q_9: 4815564362873791334
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

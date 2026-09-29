@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 0d6e6485080226bed9956e3131072ca8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6739733444810499926
+    second: game_99battle_1st01^q_0
+  - first:
+      213: -8887179671184941777
+    second: game_99battle_1st01^q_1
+  - first:
+      213: 515075737199653640
+    second: game_99battle_1st01^q_2
+  - first:
+      213: 850209769931440554
+    second: game_99battle_1st01^q_3
+  - first:
+      213: -7772174280281232066
+    second: game_99battle_1st01^q_4
+  - first:
+      213: 3553940388337877430
+    second: game_99battle_1st01^q_5
+  - first:
+      213: -8993477256745105950
+    second: game_99battle_1st01^q_6
+  - first:
+      213: 4999352660216837179
+    second: game_99battle_1st01^q_7
+  - first:
+      213: -4230977642477049344
+    second: game_99battle_1st01^q_8
+  - first:
+      213: 5549041082658665917
+    second: game_99battle_1st01^q_9
+  - first:
+      213: 2844842493020122130
+    second: game_99battle_1st01^q_10
+  - first:
+      213: 2797791576604405978
+    second: game_99battle_1st01^q_11
+  - first:
+      213: -7202788815939477471
+    second: game_99battle_1st01^q_12
+  - first:
+      213: -4751917872569533495
+    second: game_99battle_1st01^q_13
+  - first:
+      213: -7182071818542665873
+    second: game_99battle_1st01^q_14
+  - first:
+      213: 6746168036447728642
+    second: game_99battle_1st01^q_15
+  - first:
+      213: 2108928455821009127
+    second: game_99battle_1st01^q_16
+  - first:
+      213: -3196785140537427205
+    second: game_99battle_1st01^q_17
+  - first:
+      213: -4575371451871333336
+    second: game_99battle_1st01^q_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 448
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657efb20cd7588d50800000000000000
+      internalID: 6739733444810499926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 509
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dd2f3ec256aa480800000000000000
+      internalID: -8887179671184941777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_2
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 509
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803353c67aae52700800000000000000
+      internalID: 515075737199653640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_3
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 448
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa18459f74d8ccb00800000000000000
+      internalID: 850209769931440554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 316
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3de86bbba0b32490800000000000000
+      internalID: -7772174280281232066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 382
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b10bcf14f1225130800000000000000
+      internalID: 3553940388337877430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 48
+        width: 530
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e54720a510c03380800000000000000
+      internalID: -8993477256745105950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_7
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 382
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34f02bb1c4416540800000000000000
+      internalID: 4999352660216837179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_8
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 316
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a2987304c8845c0800000000000000
+      internalID: -4230977642477049344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 200
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db53befe677220d40800000000000000
+      internalID: 5549041082658665917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 259
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ca66ebc29ea7720800000000000000
+      internalID: 2844842493020122130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_11
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 200
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0f5179d90c3d620800000000000000
+      internalID: 2797791576604405978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_12
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 259
+        width: 49
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12065c1ebbd8a0c90800000000000000
+      internalID: -7202788815939477471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 135
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbb9a32fdbcd0eb0800000000000000
+      internalID: -4751917872569533495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 69
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fab68bbb7245c90800000000000000
+      internalID: -7182071818542665873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_15
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 69
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204bf8f16143f9d50800000000000000
+      internalID: 6746168036447728642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_16
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 135
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0ace9c14b644d10800000000000000
+      internalID: 2108928455821009127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 4
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaf40b1adcb2a3d0800000000000000
+      internalID: -3196785140537427205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_99battle_1st01^q_18
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 4
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824feb7e7e30180c0800000000000000
+      internalID: -4575371451871333336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      game_99battle_1st01^q_0: 6739733444810499926
+      game_99battle_1st01^q_1: -8887179671184941777
+      game_99battle_1st01^q_10: 2844842493020122130
+      game_99battle_1st01^q_11: 2797791576604405978
+      game_99battle_1st01^q_12: -7202788815939477471
+      game_99battle_1st01^q_13: -4751917872569533495
+      game_99battle_1st01^q_14: -7182071818542665873
+      game_99battle_1st01^q_15: 6746168036447728642
+      game_99battle_1st01^q_16: 2108928455821009127
+      game_99battle_1st01^q_17: -3196785140537427205
+      game_99battle_1st01^q_18: -4575371451871333336
+      game_99battle_1st01^q_2: 515075737199653640
+      game_99battle_1st01^q_3: 850209769931440554
+      game_99battle_1st01^q_4: -7772174280281232066
+      game_99battle_1st01^q_5: 3553940388337877430
+      game_99battle_1st01^q_6: -8993477256745105950
+      game_99battle_1st01^q_7: 4999352660216837179
+      game_99battle_1st01^q_8: -4230977642477049344
+      game_99battle_1st01^q_9: 5549041082658665917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

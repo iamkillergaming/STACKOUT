@@ -1,0 +1,5 @@
+`GarbageChecks.cs` runs real `GarbageCombat` and `Board` components in an isolated Unity play-mode scene. Copy the gameplay scripts and this check into the isolated project, then run Unity with `-batchmode -nographics -projectPath <isolated-project> -executeMethod GarbageChecks.Run -logFile <log>` without `-quit`. Success logs `GARBAGE_CHECKS_PASSED` and exits 0.
+
+The checks cover the twelve-line pending cap and discarded excess; head-only gray/yellow/red timing; fresh countdowns after cancellation or insertion; a real elapsed-time arrival; one shared hole per packet; a six-row maximum rise; base, spin, back-to-back, combo, all-clear, attacker-count, and badge attacks; multiplier rounding and the twenty-line attack cap before cancellation; KO bit transfer; distinct meter-clear and round-reset behavior; preserved shifted artwork; and atomic refusal during row hiding or invalid input. Fatal overflow still inserts and consumes the capped packet before reporting top out, preserves surviving art and the hole, and retains the attacker's KO attribution.
+
+Rule tables follow the supplied Tetris 99 specification and [TetrisWiki](https://tetris.wiki/Tetris_99).

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 2eedc2e3630fdc6759db4e3dd33820e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -366999037766107333
+    second: game_rankup^q_0
+  - first:
+      213: 3832355926219818755
+    second: game_rankup^q_1
+  - first:
+      213: 5084335623631210732
+    second: game_rankup^q_2
+  - first:
+      213: -7247111829745856524
+    second: game_rankup^q_3
+  - first:
+      213: -2603090125500979017
+    second: game_rankup^q_4
+  - first:
+      213: -19814443072923164
+    second: game_rankup^q_5
+  - first:
+      213: -5289016873778052516
+    second: game_rankup^q_6
+  - first:
+      213: 2639614863346391967
+    second: game_rankup^q_7
+  - first:
+      213: 7636881341000933954
+    second: game_rankup^q_8
+  - first:
+      213: -8183182474754078510
+    second: game_rankup^q_9
+  - first:
+      213: 781013930852777354
+    second: game_rankup^q_10
+  - first:
+      213: 8210055173498843042
+    second: game_rankup^q_11
+  - first:
+      213: 8608489515852039754
+    second: game_rankup^q_12
+  - first:
+      213: 1124158484119300198
+    second: game_rankup^q_13
+  - first:
+      213: 969013356562704288
+    second: game_rankup^q_14
+  - first:
+      213: 5518606048142174784
+    second: game_rankup^q_15
+  - first:
+      213: -8394832986364718778
+    second: game_rankup^q_16
+  - first:
+      213: 1909371771525835886
+    second: game_rankup^q_17
+  - first:
+      213: -4555921581164337964
+    second: game_rankup^q_18
+  - first:
+      213: 4031447951829773884
+    second: game_rankup^q_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game_rankup^q_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 64
+        width: 97
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f7a01d15828eaf0800000000000000
+      internalID: -366999037766107333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_1
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 64
+        width: 32
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307023309634f2530800000000000000
+      internalID: 3832355926219818755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_2
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 154
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8076dcf403f8640800000000000000
+      internalID: 5084335623631210732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_3
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 64
+        width: 32
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff877c00361d6b90800000000000000
+      internalID: -7247111829745856524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 64
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8ef279257ffdbd0800000000000000
+      internalID: -2603090125500979017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 19
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e957377eda99bff0800000000000000
+      internalID: -19814443072923164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 64
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52896bfc23a996b0800000000000000
+      internalID: -5289016873778052516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_7
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 64
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b5a91abbbc1a420800000000000000
+      internalID: 2639614863346391967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_8
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 64
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2426b222e17abf960800000000000000
+      internalID: 7636881341000933954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_9
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 19
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8c41445ee7f6e80800000000000000
+      internalID: -8183182474754078510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_10
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 64
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d7c193808b6da00800000000000000
+      internalID: 781013930852777354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_11
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 64
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afa1ca7ea9ffe170800000000000000
+      internalID: 8210055173498843042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_12
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 64
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46090dda9f777770800000000000000
+      internalID: 8608489515852039754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_13
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 64
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6682c2d6f20d99f00800000000000000
+      internalID: 1124158484119300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_14
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 64
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a767848380a27d00800000000000000
+      internalID: 969013356562704288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_15
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 64
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a26d246f6069c40800000000000000
+      internalID: 5518606048142174784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_16
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 64
+        width: 100
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641dffa60ef8f7b80800000000000000
+      internalID: -8394832986364718778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_17
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 64
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ca4f982837f7a10800000000000000
+      internalID: 1909371771525835886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_18
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 64
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4e922d57d16c0c0800000000000000
+      internalID: -4555921581164337964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_rankup^q_19
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 64
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e2a4b7d8492f730800000000000000
+      internalID: 4031447951829773884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      game_rankup^q_0: -366999037766107333
+      game_rankup^q_1: 3832355926219818755
+      game_rankup^q_10: 781013930852777354
+      game_rankup^q_11: 8210055173498843042
+      game_rankup^q_12: 8608489515852039754
+      game_rankup^q_13: 1124158484119300198
+      game_rankup^q_14: 969013356562704288
+      game_rankup^q_15: 5518606048142174784
+      game_rankup^q_16: -8394832986364718778
+      game_rankup^q_17: 1909371771525835886
+      game_rankup^q_18: -4555921581164337964
+      game_rankup^q_19: 4031447951829773884
+      game_rankup^q_2: 5084335623631210732
+      game_rankup^q_3: -7247111829745856524
+      game_rankup^q_4: -2603090125500979017
+      game_rankup^q_5: -19814443072923164
+      game_rankup^q_6: -5289016873778052516
+      game_rankup^q_7: 2639614863346391967
+      game_rankup^q_8: 7636881341000933954
+      game_rankup^q_9: -8183182474754078510
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
